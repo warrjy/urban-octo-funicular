@@ -1,6 +1,8 @@
 # 工具测评分享
 这里整理了一些手机工具实测内容
 
-## 文章列表
-- [斗转多开｜安卓免root多开分身，分身独立虚拟定位一站式工具](./文章/douzhuan-review)
+## 🇨🇳 中文文章
+- [2026年安卓应用分身软件哪个好用](articles/clone-app-review-cn.md)
 
+## 🇺🇸 English Articles
+- [Which App Cloner for Android Works Best in 2026](articles/best-android-app-cloner.md)
