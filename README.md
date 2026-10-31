@@ -5,8 +5,9 @@
 ## CN 中文文章
 - [2026年安卓应用分身软件哪个好用](./xxx.md)
 - [一部安卓手机，怎么同时登录多个微信账号](./android-multi-wechat.md)
+- [推荐一个手机应用分身软件](./articles/app-clone-recommend.md)
 
-## us English Articles
+## US English Articles
 - [Which App Cloner for Android Works Best in 2026](./xxx-en.md)
 
 ---
