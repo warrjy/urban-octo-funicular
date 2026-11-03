@@ -3,7 +3,8 @@
 这里整理了一些手机工具实测内容
 
 ## CN 中文文章
-- [2026年安卓应用分身软件哪个好用](./articles/app-clone-recommend.md.md)
+- [一部安卓手机，怎么同时登录多个抖音账号](./articles/android-multi-douyin.md)
+- [斗转多开｜安卓免root多开分身，分身独立虚拟定位一站式工具](./articles/douzhuan-review.md)
 - [一部安卓手机，怎么同时登录多个微信账号](./android-multi-wechat.md)
 - [推荐一个手机应用分身软件](./articles/app-clone-recommend.md)
 
